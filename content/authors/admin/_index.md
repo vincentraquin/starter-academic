@@ -43,6 +43,6 @@ highlight_name: false
 title: Vincent Raquin
 email: vincent.raquin@gmail.com
 ---
-Medical entomologist interested in vector-borne pathogens and their transmission.
+Hi and welcome to my professional webpage!
 
-Post-doc University Lyon 1 in UMR754 IVPC & UMR5557 Microbial Ecology labs.
+I am a researcher interested in vector-borne diseases. I
