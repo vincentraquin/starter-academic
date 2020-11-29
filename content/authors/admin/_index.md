@@ -8,7 +8,7 @@ interests:
   - Entomology
   - Immunology
   - Genetics
-  - Bio-informatics.
+  - Bio-informatics
 social:
   - icon: twitter
     icon_pack: fab
