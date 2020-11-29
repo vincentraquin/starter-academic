@@ -1,6 +1,6 @@
 ---
 role: Researcher | mosquito-virus interactions
-avatar_filename: vincent.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include microbiology, entomology, immunology,
   genetics and bio-informatics.
 interests:
@@ -45,4 +45,4 @@ email: vincent.raquin@gmail.com
 ---
 Medical entomologist interested in vector-borne pathogens and their transmission.
 
-Post-doc @University Lyon 1 in UMR754 IVPC & UMR5557 Microbial Ecology labs.
+Post-doc University Lyon 1 in UMR754 IVPC & UMR5557 Microbial Ecology labs.
