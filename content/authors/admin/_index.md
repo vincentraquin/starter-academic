@@ -51,4 +51,8 @@ Welcome!
 
 This website is dedicated to my profesional activites as a researcher. I study vector-borne diseases from pathogen emergence to transmission. I use mosquitoes and arboviruses as experimental models.
 
-I am interested in mosquito interactions with its microbiota, including bacteria and arboviruses. I investigate how these interactions shape mosquito traits, from physiology to vector competence.
+I am interested in mosquito interactions with its microbiota, including bacteria and arboviruses. I investigate how these interactions shape mosquito traits like physiology, behavior or vector competence. I ultimately try to identify microbial and vector genetic factors underlying these traits.
+
+This corresponds to on-going funded project but I am always looking for new collaborations to improve current projects and start new ones! 
+
+As a member of labs funded by several public agencies, views expressed here are my own.
