@@ -5,7 +5,8 @@ bio: My research interests include microbiology, entomology, immunology,
   genetics and bio-informatics.
 interests:
   - Vector-borne diseases
-  - ""
+  - Vector competence
+  - host-microbe interactions
 social:
   - icon: twitter
     icon_pack: fab
