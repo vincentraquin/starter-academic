@@ -49,4 +49,6 @@ email: vincent.raquin@gmail.com
 ---
 Welcome!
 
-This website is dedicated to my profesional activites as a researcher. I study vector-borne diseases from pathogen emergence to transmission, with a focus on vector-pathogen interactions. I use mosquitoes and arboviruses as experimental models.
+This website is dedicated to my profesional activites as a researcher. I study vector-borne diseases from pathogen emergence to transmission. I use mosquitoes and arboviruses as experimental models.
+
+I am interested in mosquito interactions with its microbiota, including bacteria and arboviruses. I investigate how these interactions shape mosquito traits, from physiology to vector competence.
