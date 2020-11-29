@@ -17,12 +17,16 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=RztkKMAAAAAJ
 organizations:
+  - name: CNRS
+    url: http://www.cnrs.fr/en
   - name: Ecole Pratique des Hautes Etudes
     url: https://www.ephe.psl.eu/en
   - name: INRAE
     url: https://www.inrae.fr/en
   - name: University Lyon 1
     url: https://www.univ-lyon1.fr/en
+  - name: VetAgroSup
+    url: http://www.vetagro-sup.fr/about-vetagro-sup/
 education:
   courses:
     - year: 2012
