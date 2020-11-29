@@ -1,74 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: Researcher | mosquito-virus interactions
+avatar_filename: vincent.jpg
+bio: My research interests include microbiology, entomology, immunology,
+  genetics and bio-informatics.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Microbiology
+  - Entomology
+  - Immunology
+  - Genetics and Bio-informatics.
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/DrRaquin
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=RztkKMAAAAAJ
+organizations:
+  - name: Ecole Pratique des Hautes Etudes
+    url: https://www.ephe.psl.eu/en
+  - name: INRAE
+    url: https://www.inrae.fr/en
+  - name: University Lyon 1
+    url: https://www.univ-lyon1.fr/en
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - year: ""
+      institution: University Lyon 1
+      course: Researcher on Micro-Be-Have project (IDEX grant) - Microbial
+        manipulation of insect behavior
+    - course: Researcher ComEndoVir project (Labex grant) ; Poly-microbial
+        associations shape response to virus infection in Drosophila
+      institution: Institut de Génomique Fonctionnelle de Lyon (F. Leulier) - UMR5558
+        LBBE (Natacha Kremer)
+      year: ""
+    - course: Post-doc - mosquito factors controling dengue virus infection
+      institution: Pasteur Institute - Louis Lambrechts' group
+      year: ""
+    - course: "Ph.D. in host-parasite interactions | Wolbachia bacterium impacts
+        arbovirus infection in Aedes albopictus mosquito "
+      institution: University Lyon 1
+      year: ""
+superuser: true
+user_groups: []
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+title: Vincent Raquin
+email: vincent.raquin@gmail.com
 ---
+Medical entomologist interested in vector-borne pathogens and their transmission.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Post-doc @University Lyon 1 in UMR754 IVPC & UMR5557 Microbial Ecology labs.
