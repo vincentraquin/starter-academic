@@ -35,7 +35,7 @@ education:
       year: 2019
     - course: Post-doc - mosquito factors controling dengue virus infection
       institution: Pasteur Institute - Louis Lambrechts' group
-      year: 2013
+      year: 2015
     - course: "Ph.D. in host-parasite interactions | Wolbachia bacterium impacts
         arbovirus infection in Aedes albopictus mosquito "
       institution: University Lyon 1
