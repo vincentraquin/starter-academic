@@ -33,7 +33,7 @@ education:
     - course: BSc in Microbiology
       institution: University Lyon 1
       year: 2007
-    - course: Spontaneous License training - Medical parasitology
+    - course: License training - Medical parasitology
       institution: Faculty of Medicine Lyon 1
       year: 2008
 superuser: true
