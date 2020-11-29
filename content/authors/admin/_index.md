@@ -24,22 +24,18 @@ organizations:
     url: https://www.univ-lyon1.fr/en
 education:
   courses:
-    - year: 2019
+    - year: 2012
       institution: University Lyon 1
-      course: Researcher on Micro-Be-Have project (IDEX grant) - Microbial
-        manipulation of insect behavior
-    - course: Researcher ComEndoVir project (Labex grant) ; Poly-microbial
-        associations shape response to virus infection in Drosophila
-      institution: Institut de Génomique Fonctionnelle de Lyon (F. Leulier) - UMR5558
-        LBBE (Natacha Kremer)
-      year: 2019
-    - course: Post-doc - mosquito factors controling dengue virus infection
-      institution: Pasteur Institute - Louis Lambrechts' group
-      year: 2015
-    - course: "Ph.D. in host-parasite interactions | Wolbachia bacterium impacts
-        arbovirus infection in Aedes albopictus mosquito "
+      course: Ph.D. biology, host-parasite interactions
+    - course: MSc in Microbial Ecology
       institution: University Lyon 1
-      year: 2012
+      year: 2009
+    - course: BSc in Microbiology
+      institution: University Lyon 1
+      year: 2007
+    - course: Spontaneous License training - Medical parasitology
+      institution: Faculty of Medicine Lyon 1
+      year: 2008
 superuser: true
 user_groups: []
 highlight_name: false
