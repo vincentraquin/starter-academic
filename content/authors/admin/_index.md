@@ -4,11 +4,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include microbiology, entomology, immunology,
   genetics and bio-informatics.
 interests:
-  - Microbiology
-  - Entomology
-  - Immunology
-  - Genetics
-  - Bio-informatics
+  - Vector-borne diseases
+  - ""
 social:
   - icon: twitter
     icon_pack: fab
