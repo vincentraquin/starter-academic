@@ -47,6 +47,6 @@ highlight_name: false
 title: " "
 email: vincent.raquin@gmail.com
 ---
-Hi and welcome to my professional webpage!
+Welcome!
 
-I am a researcher interested in vector-borne diseases. I
+This website is dedicated to my profesional activites as a researcher. I study vector-borne diseases from pathogen emergence to transmission, with a focus on vector-pathogen interactions. I use mosquitoes and arboviruses as experimental models.
