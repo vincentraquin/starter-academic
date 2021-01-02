@@ -1,8 +1,7 @@
 ---
-role: Researcher | mosquito-virus interactions
+role: Researcher | mosquito-arbovirus interactions
 avatar_filename: avatar.jpg
-bio: My research interests include microbiology, entomology, immunology,
-  genetics and bio-informatics.
+bio: Microbiologist / Entomologist / Molecular biologist
 interests:
   - Vector-borne diseases
   - Vector competence
@@ -48,10 +47,12 @@ email: vincent.raquin@gmail.com
 ---
 Welcome!
 
-This website is dedicated to my profesional activites as a researcher. I study vector-borne diseases from pathogen emergence to transmission. I use mosquitoes as experimental model.
+This website is dedicated to my profesional activites as a researcher.
 
-I am interested in mosquito interactions with its microbiota, including bacteria and arboviruses. I investigate how these interactions shape mosquito traits like physiology, behavior and ultimately vector competence. I try to identify microbial and vector genetic factors underlying these traits.
+My research focuses on host-microbe interactions in animals, from the characterization of natural host-associated microbial diversity to the identification of host, microbial and environmental factors that impact microbe transmission dynamics. I am mostly interested in vector-borne diseases with an emphasis in mosquito-arbovirus interactions: How arbovirus are maintained in the wild? Why do they emerge? What is the dynamic of virus transmission between the host and the vector? 
 
-This corresponds to on-going funded project but I am always looking for new collaborations to improve current projects and start new ones! 
+To answer these questions, I combine fieldwork (vector collection, virus detection), experimental approach (microbiology, vector biology) and modeling (intra-host/vecor and inter-host/vector modelisation of virus transmission).
+
+This work is possible thanks to amazing collaborators, and I am always open for new and exciting collaborations so feel free to contact me.
 
 As a member of labs supported by several public agencies, views expressed here are my own.
