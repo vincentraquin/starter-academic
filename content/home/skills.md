@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "mosq"
-  icon_pack = "custom"
-  name = "Exprimental"
+  icon = "flask"
+  icon_pack = "fab"
+  name = "Experimental"
   description = "90%"
 
 [[feature]]
