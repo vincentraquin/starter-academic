@@ -42,7 +42,7 @@ education:
 superuser: true
 user_groups: []
 highlight_name: false
-title: "Vincent Raquin "
+title: " "
 email: vincent.raquin@gmail.com
 ---
 Welcome!
